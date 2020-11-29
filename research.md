@@ -13,16 +13,17 @@ High-resolution proteomics reveals differences in the proteome of spelt and brea
 Read here: [Nature](https://www.nature.com/articles/s41598-020-71712-5)
 
 Breeding and intensive screening are necessary for successful establishment of a new crop species (Pre-print)
+
 Read here: [Uni Hohenheim](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf)
 
 More are upcoming...
 
 # Projects
 
-**Combining agronomic and quality traits in different wheat species**
+**1. Combining agronomic and quality traits in different wheat species**
 
-**Association mapping, Genomic prediction and evaluation of various traits of Einkorn**
+**2. Association mapping, Genomic prediction and evaluation of various traits of Einkorn**
 
-**Establishment of sustainable breeding program for Emmer**
+**3. Establishment of sustainable breeding program for Emmer**
 
-**MMFAIR - Mixed Models for Agriculture in R**
+**4. MMFAIR - Mixed Models for Agriculture in R**
