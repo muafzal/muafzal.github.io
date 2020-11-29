@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Muhammad Afzal
-subtitle: Passionate Researcher / Data Science Enthusiast
+title: My Brief Bio
+subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 ---
 
 ![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - experienced in applied research, plant breeding and seed/agrochemical sector. My aim to contribute to science and society drives me.
