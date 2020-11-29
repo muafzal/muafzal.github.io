@@ -12,20 +12,7 @@ layout: base
   <div class="before-content">
     {% for file in page.before-content %} {% include {{ file }} %} {% endfor %}
   </div>
-  {% endif %} {{ content }}
-  <!--add background gif-->
-  <div style="position: relative; padding-bottom: calc(56.25% + 44px)">
-    <iframe
-      src="https://gfycat.com/ifr/CreativeIncredibleAmericanredsquirrel"
-      frameborder="0"
-      scrolling="no"
-      width="100%"
-      height="100%"
-      style="position: absolute; top: 0; left: 0"
-      allowfullscreen
-    ></iframe>
-  </div>
-  {% if page.after-content %}
+  {% endif %} {{ content }} {% if page.after-content %}
   <div class="after-content">
     {% for file in page.after-content %} {% include {{ file }} %} {% endfor %}
   </div>
