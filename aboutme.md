@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Brief Bio
+title: About me
 subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 ---
 
