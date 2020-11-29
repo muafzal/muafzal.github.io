@@ -18,9 +18,6 @@ common-ext-js:
   {% include head.html %}
 
   <body>
-    <!-- Particles.js div -->
-    <div id="particles-js"></div>
-
     <div
       role="main"
       class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} main-content"
@@ -39,8 +36,5 @@ common-ext-js:
     </div>
 
     {% include footer-minimal.html %} {% include footer-scripts.html %}
-    <!-- Import Particles.js and app.js files -->
-    <script src="particles.js-master/particles.js"></script>
-    <script src="/particles.js-master/app.js"></script>
   </body>
 </html>
