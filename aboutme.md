@@ -4,7 +4,7 @@ title: My Brief Bio
 subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 ---
 
-![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - experienced in applied research, plant breeding and seed/agrochemical sector. My aim to contribute to science and society drives me.
+![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - experienced in _Applied research / Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I aspire to implement my skills for the betterment of science and society.
 
 ![Passion](/assets/img/passion.png) I love to explore new avenues in data science and learn every day something new.
 
@@ -12,4 +12,4 @@ subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 
 ![Education](/assets/img/education.png) It has been a priviledge to get two master degrees - one in Environmental Sciences and the other in Plant Breeding and Seed Science.
 
-![Tools](/assets/img/tools.png) Among some useful tools that I know include **R**, **SQL**, **MS Office**, **Python (learning)**. I am comfortable with performing GWAS, Genomic Selection, Analyzing high-throughput/big data, writing/reviewing manuscripts and conducting extensive field trials.
+![Tools](/assets/img/tools.png) Among some useful tools that I know include **R**, **SQL**, **MS Office**, **Python (learning)**. I am pretty comfortable with performing GWAS, Genomic Selection, Analyzing high-throughput/omics data, writing/reviewing manuscripts and conducting extensive field trials.
