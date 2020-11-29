@@ -17,20 +17,20 @@ particlesJS(
   {
     particles: {
       number: {
-        value: 80,
+        value: 50,
         density: {
           enable: true,
           value_area: 800,
         },
       },
       color: {
-        value: "#1E90FF",
+        value: "#C54BB3",
       },
       shape: {
         type: "circle",
         stroke: {
           width: 0,
-          color: "#1E90FF",
+          color: "#C54BB3",
         },
         polygon: {
           nb_sides: 5,
@@ -64,15 +64,15 @@ particlesJS(
       line_linked: {
         enable: true,
         distance: 150,
-        color: "#EAEAEA",
-        opacity: 0.4,
+        color: "#C54BB3",
+        opacity: 0.6,
         width: 1,
       },
       move: {
         enable: true,
         speed: 6,
         direction: "none",
-        random: false,
+        random: true,
         straight: false,
         out_mode: "out",
         attract: {
