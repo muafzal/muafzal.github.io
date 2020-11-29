@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "thankful to wonderful mentors / colleagues for parting their knowldge"
+subtitle: "...thankful to wonderful mentors / colleagues for parting their knowledge..."
 ---
 
 ![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - experienced in _Applied research / Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I aspire to implement my skills for the betterment of science and society.
