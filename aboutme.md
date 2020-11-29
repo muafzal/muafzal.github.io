@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Hi, I'm Muhammad
+title: Muhammad Afzal
 subtitle: Passionate Researcher / Data Science Enthusiast
 ---
 
-I will update this section soon...
-
-
+Content is in preparation...
