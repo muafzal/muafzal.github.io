@@ -8,18 +8,18 @@ layout: page
 
 # Publications
 
-1. [High-resolution proteomics reveals differences in the proteome of spelt and bread wheat flour representing targets for research on wheat sensitivities](https://www.nature.com/articles/s41598-020-71712-5)
+- [High-resolution proteomics reveals differences in the proteome of spelt and bread wheat flour representing targets for research on wheat sensitivities](https://www.nature.com/articles/s41598-020-71712-5)
 
-2. [Breeding and intensive screening are necessary for successful establishment of a new crop species](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf) - Pre-print
+- [Breeding and intensive screening are necessary for successful establishment of a new crop species](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf)
 
 updating...
 
 # Projects
 
-1. Combining agronomic and quality traits in different wheat species
+- Combining agronomic and quality traits in different wheat species
 
-2. Association mapping, Genomic prediction and evaluation of various traits of Einkorn
+- Association mapping, Genomic prediction and evaluation of various traits of Einkorn
 
-3. Establishment of sustainable breeding program for Emmer
+- Establishment of sustainable breeding program for Emmer
 
-4. MMFAIR - Mixed Models for Agriculture in R
+- MMFAIR - Mixed Models for Agriculture in R
