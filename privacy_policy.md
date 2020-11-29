@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+subtitle: Privacy Policy
 ---
 
 https://muafzal.github.io website follows the following privacy policy for all visitors on this website and its content:

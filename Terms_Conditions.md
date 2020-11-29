@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Website Terms
+subtitle: General Website Terms
 ---
 
 1. Terms
