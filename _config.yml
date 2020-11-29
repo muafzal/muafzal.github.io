@@ -41,26 +41,26 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "m.afzal2046@gmail.com"
+  twitter: MAfzal2046
   #  facebook: afzal2046
   github: muafzal
-  twitter: MAfzal2046
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  reddit: yourname
-#   linkedin: mafzal2
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: 0000-0002-1020-4133
+  #  patreon: DeanAttali
+  #  youtube: c/daattali
+  #  reddit: yourname
+  linkedin: mafzal2
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  #  spotify: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
+  #  telegram: yourname
+  #  calendly: yourname
+  #  mastodon: instance.url/@username
+  ORCID: 0000-0002-1020-4133
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
