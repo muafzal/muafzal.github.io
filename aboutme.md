@@ -16,4 +16,4 @@ subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 
 ### Contact
 
-You can reach me via [Email](m.afzal2046@gmail.com), [twitter](https://twitter.com/MAfzal2046), [Facebook](https://www.facebook.com/mafzal2046/), [LinkedIn](https://www.linkedin.com/in/mafzal2/), [Researchgate](https://www.researchgate.net/profile/Muhammad_Afzal118).
+You can reach me via Email, [twitter](https://twitter.com/MAfzal2046), [Facebook](https://www.facebook.com/mafzal2046/), [LinkedIn](https://www.linkedin.com/in/mafzal2/) and [Researchgate](https://www.researchgate.net/profile/Muhammad_Afzal118).
