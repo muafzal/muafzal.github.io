@@ -23,20 +23,19 @@ common-js:
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
   <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
   {% include head.html %}
-
-  <body>
-    <div class="mobile-js-hide">
-      <!-- particles.js container -->
-      <div id="particles-js">
-        <canvas
-          class="particles-js-canvas-el"
-          width="1146"
-          height="9315"
-          style="width: 100%; height: 100%"
-        ></canvas>
-      </div>
+  {% include gtm_body.html %}
+  <div class="mobile-js-hide">
+    <!-- particles.js container -->
+    <div id="particles-js">
+      <canvas
+        class="particles-js-canvas-el"
+        width="1146"
+        height="9315"
+        style="width: 100%; height: 100%"
+      ></canvas>
     </div>
-    {% include gtm_body.html %} {% include nav.html %} {{ content }} {% include
-    footer.html %} {% include footer-scripts.html %}
+  </div>
+  {% include nav.html %} {{ content }}
+  {% include footer.html %} {% include footer-scripts.html %}
   </body>
 </html>
