@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Home
+title: Blog # could be Home or own Name
 
 # Your name to show in the footer
 author: Muhammad Afzal
@@ -17,10 +17,10 @@ navbar-links:
   About / Contact: "aboutme"
   Research: "research"
   Tutorials: "tutorials"
-  Personal:
-    - Projects: "projects"
-    - Poetry: "poetry"
-    - Selected Quotes: "quotes"
+#  Personal:
+#    - Projects: "projects"
+#    - Poetry: "poetry"
+#    - Selected Quotes: "quotes"
 #  Author's home: "muafzal.github.io"
 
 # --- Logo --- #
@@ -44,7 +44,7 @@ social-network-links:
   email: "m.afzal2046@gmail.com"
   twitter: MAfzal2046
   facebook: mafzal2046
-  github: muafzal
+  #  github: muafzal
   #  patreon: DeanAttali
   #  youtube: c/daattali
   #  reddit: yourname
@@ -61,7 +61,7 @@ social-network-links:
   #  telegram: yourname
   #  calendly: yourname
   #  mastodon: instance.url/@username
-  ORCID: 0000-0002-1020-4133
+  #  ORCID: 0000-0002-1020-4133
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -103,7 +103,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#1E90FF"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -116,7 +116,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#1E90FF"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
