@@ -12,9 +12,9 @@ High-resolution proteomics reveals differences in the proteome of spelt and brea
 
 Read here: [Nature](https://www.nature.com/articles/s41598-020-71712-5)
 
-Breeding and intensive screening are necessary for successful establishment of a new crop species (Pre-print)
+Breeding and intensive screening are necessary for successful establishment of a new crop species
 
-Read here: [Uni Hohenheim](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf)
+Read here (Pre-print): [Uni Hohenheim](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf)
 
 More are upcoming...
 
