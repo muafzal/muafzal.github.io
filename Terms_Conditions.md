@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and conditions
+title: Terms & conditions
 ---
 
 ### 1. Terms
