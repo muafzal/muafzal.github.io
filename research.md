@@ -2,8 +2,10 @@
 layout: page
 ---
 
-#Publications
+# Publications
+
 Content is in preparation...
 
-#Projects
+# Projects
+
 Content is in preparation...
