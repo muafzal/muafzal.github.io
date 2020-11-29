@@ -14,15 +14,10 @@ author: Muhammad Afzal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me / Contact: "aboutme"
+  About / Contact: "aboutme"
   Tutorials:
-    - ggplot2: "ggplot2"
-    - ASReml-R: "ASReml-R"
-  Publications:
-    - Google Scholar Profile: "https://scholar.google.com/citations?user=LiKNUFkAAAAJ&hl=en"
-    - Researchgate Profile: "https://www.researchgate.net/profile/Muhammad_Afzal118"
-    - ORCID Profile: "https://orcid.org/0000-0002-1020-4133"
-  Joy:
+  Research:
+  Non-/Semi-scientific:
     - Poetry: "poetry"
     - Photography: "photography"
 #  Author's home: "muafzal.github.io"
@@ -40,14 +35,13 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "m.afzal2046@gmail.com"
-#  facebook: afzal2046
+  #  facebook: afzal2046
   github: muafzal
   twitter: MAfzal2046
 #  patreon: DeanAttali
@@ -84,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "muafzal.github.io"
+url-pretty: "muafzal.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -96,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Wheat,Breeding,Genetics,R-coding"
+keywords: "Wheat,Breeding,Genetics,GWAS,Genomic Selection,Proteomics,R-coding"
 
 # --- Colours / background image --- #
 
@@ -204,16 +198,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
@@ -232,7 +224,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
