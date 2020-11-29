@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to produce publishing-quality plots, diagrams and illustrations
+title: How to produce publishing-quality graphics?
 subtitle: A concise workflow
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
