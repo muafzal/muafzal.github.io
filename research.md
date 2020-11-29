@@ -16,10 +16,10 @@ More are upcoming...
 
 # Projects
 
-**1. Combining agronomic and quality traits in different wheat species**
+## 1. Combining agronomic and quality traits in different wheat species
 
-**2. Association mapping, Genomic prediction and evaluation of various traits of Einkorn**
+## 2. Association mapping, Genomic prediction and evaluation of various traits of Einkorn
 
-**3. Establishment of sustainable breeding program for Emmer**
+## 3. Establishment of sustainable breeding program for Emmer
 
-**4. MMFAIR - Mixed Models for Agriculture in R**
+## 4. MMFAIR - Mixed Models for Agriculture in R
