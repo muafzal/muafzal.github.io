@@ -15,11 +15,12 @@ author: Muhammad Afzal
 
 navbar-links:
   About / Contact: "aboutme"
-  Tutorials: "tutorials"
   Research: "research"
-  Non-/Semi-scientific:
+  Tutorials: "tutorials"
+  Personal:
+    - Projects: "projects"
     - Poetry: "poetry"
-    - Photography: "photography"
+    - Selected Quotes: "quotes"
 #  Author's home: "muafzal.github.io"
 
 # --- Logo --- #
