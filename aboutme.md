@@ -13,3 +13,7 @@ subtitle: Passionate researcher / Data Science enthusiast / Cricket-lover / Poet
 ![Education](/assets/img/education.png) It has been a priviledge to get two master degrees - one in Environmental Sciences and the other in Plant Breeding and Seed Science.
 
 ![Tools](/assets/img/tools.png) Among some useful tools that I know include **R**, **SQL**, **MS Office**, **Python (learning)**. I am pretty comfortable with performing GWAS, Genomic Selection, Analyzing high-throughput/omics data, writing/reviewing manuscripts and conducting extensive field trials.
+
+### United we stand!
+
+I would be happy to extend my network. Certainly, sharing knowledge and perspectives can benefit us all. You are welcome to connect via [twitter](https://twitter.com/MAfzal2046), [Facebook](https://www.facebook.com/mafzal2046/), [LinkedIn](https://www.linkedin.com/in/mafzal2/), [Researchgate](https://www.researchgate.net/profile/Muhammad_Afzal118).
