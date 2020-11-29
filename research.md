@@ -21,5 +21,3 @@ updating...
 - Association mapping, Genomic prediction and evaluation of various traits of Einkorn
 
 - Establishment of sustainable breeding program for Emmer
-
-- MMFAIR - Mixed Models for Agriculture in R
