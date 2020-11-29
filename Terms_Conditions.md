@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Terms and conditions
 ---
-
-## General Website Terms
 
 ### 1. Terms
 
