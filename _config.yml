@@ -129,10 +129,10 @@ mobile-theme-col: "#1E90FF"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-YJN997H3PN"
+gtag: "G-1NH200QEDG"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-YJN997H3PN"
+google_analytics: "G-1NH200QEDG"
 
 # Google Tag Manager ID
 #gtm: ""
