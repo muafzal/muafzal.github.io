@@ -8,7 +8,7 @@ subtitle: "...I'm thankful to all traditional/non-traditional mentors for enligh
 
 ![Passion](/assets/img/passion.png) Data Science, Bioinformatics, Biostatistics, Plant Breeding, Genomics
 
-![Current Work](/assets/img/job.png) Currently I am focused to _genetically characterize the proteomes_ of spelt and bread wheat in order to facilitate future plant breeding. Additionally, I am _leading two projects_ - one to produce improved Emmer varieties and the other aimed at association mapping and evaluation of various traits in Einkorn. Besides all this and that, I am a _die hard cricket player_, a _poet_ and a _data science enthusiast_.
+![Current Work](/assets/img/job.png) Currently I am focused to _genetically characterize the proteomes_ of spelt and bread wheat in order to facilitate future plant breeding. Additionally, I am _leading two projects_ - one to produce improved Emmer varieties and the other aimed at association mapping and evaluation of various traits in Einkorn. Besides all this and that, I am a _die hard cricket player_ and a _poet_.
 
 ![Tools](/assets/img/tools.png) **R**, **SQL**, **MS Office**, **Python (grasping)**, **html**, **css**
 
