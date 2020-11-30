@@ -4,7 +4,7 @@ title: About me
 subtitle: "...I'm thankful to all traditional/non-traditional mentors for enlightenment..."
 ---
 
-![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - actively engaged in _Applied research / Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I love to teach and share my my know-how. That is the fundamental reason to build this website.
+![Bio](/assets/img/about.png) Hi, I am Muhammad Afzal - actively engaged in _applied research_ covering _Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I love to teach and share my my know-how. That is the fundamental reason to build this website.
 
 ![Passion](/assets/img/passion.png) Data Science, Bioinformatics, Biostatistics, Plant Breeding, Genomics
 
