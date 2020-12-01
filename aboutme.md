@@ -14,4 +14,4 @@ subtitle: "...I'm thankful to all traditional/non-traditional mentors for enligh
 
 ### Contact
 
-I shall be very happy to hear from you via any of the following channels - Email, [twitter](https://twitter.com/MAfzal2046), [Facebook](https://www.facebook.com/mafzal2046/), [LinkedIn](https://www.linkedin.com/in/mafzal2/) and [Researchgate](https://www.researchgate.net/profile/Muhammad_Afzal118).
+I shall be very happy to hear from you via any of the following channels - [twitter](https://twitter.com/MAfzal2046), [Facebook](https://www.facebook.com/mafzal2046/), [LinkedIn](https://www.linkedin.com/in/mafzal2/) and [Researchgate](https://www.researchgate.net/profile/Muhammad_Afzal118).
