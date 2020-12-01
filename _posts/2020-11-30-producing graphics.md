@@ -9,17 +9,71 @@ tags: [ggplot, inkscape, science, publishing, writing]
 comments: true
 ---
 
-## R Markdown
+This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**Here is some bold text**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+## Here is a secondary heading
 
-## Including Plots
+Here's a useless table:
 
-You can also embed plots, for example:
+| Number | Next number | Previous number |
+| :----- | :---------- | :-------------- |
+| Five   | Six         | Four            |
+| Ten    | Eleven      | Nine            |
+| Seven  | Eight       | Six             |
+| Two    | Three       | One             |
 
-    {r pressure, echo=FALSE}
-    plot(pressure)
+How about a yummy crepe?
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+It can also be centered!
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+Here's a code chunk:
+
+```
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+And here is the same code with syntax highlighting:
+
+```javascript
+var foo = function (x) {
+  return x + 5;
+};
+foo(3);
+```
+
+And here is the same code yet again but with line numbers:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+## Boxes
+
+You can add notification, warning and error boxes like this:
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
