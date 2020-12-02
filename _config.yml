@@ -135,7 +135,7 @@ gtag: "G-1NH200QEDG"
 google_analytics: "G-1NH200QEDG"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-KXSCV93"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
