@@ -9,30 +9,24 @@ tags: [ggplot, inkscape, science, publishing, writing]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This post will show you how to create high quality graphics ready for publications in high-impact journals.
 
-**Here is some bold text**
+## Highlights
 
-## Here is a secondary heading
+{: .box-note}
+**1.** Prepare input data
+**2.** Make and save plot. Should your figure have only one panel, stop here - your figure is ready to be used for your manuscript
+**3.** Should your figure has two or more panels, import pdf/eps files into Inkscape
+**4.** Assemble multiple panels into one figure in Inkscape
+**5.** Export as vector graphics or png
 
-Here's a useless table:
+## Step by step guide
 
-| Number | Next number | Previous number |
-| :----- | :---------- | :-------------- |
-| Five   | Six         | Four            |
-| Ten    | Eleven      | Nine            |
-| Seven  | Eight       | Six             |
-| Two    | Three       | One             |
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
+Plot made using ggplot2:
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Here's a code for ggplot2:
 
 ```
 var foo = function(x) {
@@ -40,40 +34,3 @@ var foo = function(x) {
 }
 foo(3)
 ```
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function (x) {
-  return x + 5;
-};
-foo(3);
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
