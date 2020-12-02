@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "...I'm thankful to all traditional/non-traditional mentors for enlightenment..."
+subtitle: "...all that matters is what I contribute..."
 ---
 
 ![Bio](/assets/img/about.png "Bio") Hi, I am Muhammad Afzal - actively engaged in _applied research_ covering _Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I love to teach/learn and share my know-how. That is one of the fundamental reasons to build this website. I will be writing/speaking about R for Data Science, statistics using R, Quick fixes to R-related issues, Scientific Productivity, Quantitative Genetics and Plant Breeding.
