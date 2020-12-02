@@ -13,11 +13,11 @@ This post will show you how to create high quality graphics ready for publicatio
 
 ## Highlights
 
-    **1.** Prepare input data
-    **2.** Make and save plot. Should your figure have only one panel, stop here - your figure is ready to be used for your manuscript
-    **3.** Should your figure has two or more panels, import pdf/eps files into Inkscape
-    **4.** Assemble multiple panels into one figure in Inkscape
-    **5.** Export as vector graphics or png
+    1. Prepare input data
+    2. Make and save plot. Should your figure have only one panel, stop here - your figure is ready to be used for your manuscript
+    3. Should your figure has two or more panels, import pdf/eps files into Inkscape
+    4. Assemble multiple panels into one figure in Inkscape
+    5. Export as vector graphics or png
 
 ## Step by step guide
 
