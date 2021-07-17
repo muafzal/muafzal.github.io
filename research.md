@@ -8,6 +8,10 @@ layout: page
 
 # Publications
 
+Comprehensive proteome analysis of bread deciphering the allergenic potential of bread wheat, spelt and rye
+
+Read here: [Plants](https://www.sciencedirect.com/science/article/abs/pii/S1874391921002177)
+
 Characterization of 150 Wheat Cultivars by LC-MS-Based Label-Free Quantitative Proteomics Unravels Possibilities to Design Wheat Better for Baking Quality and Human Health
 
 Read here: [Plants](https://www.mdpi.com/2223-7747/10/3/424)
