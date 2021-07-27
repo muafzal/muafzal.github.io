@@ -8,32 +8,17 @@ layout: page
 
 # Publications
 
-Comprehensive proteome analysis of bread deciphering the allergenic potential of bread wheat, spelt and rye
+Comprehensive proteome analysis of bread deciphering the allergenic potential of bread wheat, spelt and rye.
+(Read here: [Journal of Proteomics](https://www.sciencedirect.com/science/article/abs/pii/S1874391921002177))
 
-Read here: [Journal of Proteomics](https://www.sciencedirect.com/science/article/abs/pii/S1874391921002177)
+Characterization of 150 Wheat Cultivars by LC-MS-Based Label-Free Quantitative Proteomics Unravels Possibilities to Design Wheat Better for Baking Quality and Human Health.
+(Read here: [Plants](https://www.mdpi.com/2223-7747/10/3/424))
 
-Characterization of 150 Wheat Cultivars by LC-MS-Based Label-Free Quantitative Proteomics Unravels Possibilities to Design Wheat Better for Baking Quality and Human Health
+Hybrid QconCAT-Based Targeted Absolute and Data-Independent Acquisition-Based Label-Free Quantification Enables In-Depth Proteomic Characterization of Wheat Amylase/Trypsin Inhibitor Extracts.
+(Read here: [Journal of Proteome Research](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00752))
 
-Read here: [Plants](https://www.mdpi.com/2223-7747/10/3/424)
+High-resolution proteomics reveals differences in the proteome of spelt and bread wheat flour representing targets for research on wheat sensitivities.
+(Read here: [Nature](https://www.nature.com/articles/s41598-020-71712-5))
 
-Hybrid QconCAT-Based Targeted Absolute and Data-Independent Acquisition-Based Label-Free Quantification Enables In-Depth Proteomic Characterization of Wheat Amylase/Trypsin Inhibitor Extracts
-
-Read here: [Journal of Proteome Research](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00752)
-
-High-resolution proteomics reveals differences in the proteome of spelt and bread wheat flour representing targets for research on wheat sensitivities
-
-Read here: [Nature](https://www.nature.com/articles/s41598-020-71712-5)
-
-Breeding and intensive screening are necessary for successful establishment of a new crop species
-
-Read here: [Uni Hohenheim](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf)
-
-updating...
-
-# Projects
-
-- Combining agronomic and quality traits in wheat species
-
-- Association mapping, Genomic prediction and evaluation of various traits of Einkorn
-
-- Establishment of sustainable breeding program for Emmer
+Breeding and intensive screening are necessary for successful establishment of a new crop species.
+(Read here: [Uni Hohenheim](https://weizen.uni-hohenheim.de/fileadmin/einrichtungen/lsa-weizen/Bilder/Longin/Emmer_MLR_Agro.pdf))
