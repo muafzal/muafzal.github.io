@@ -8,9 +8,6 @@ subtitle: A short guide - step by step
 tags: [PhD, science, how-to]
 comments: true
 ---
-
-## Introduction
-
 Pursuing a PhD can be a rewarding and challenging experience, and it requires careful planning, hard work, and dedication. In this blog post, I will provide some tips and guidelines for doing a successful PhD.
 
 ## Step 1: Choose a University and Research Topic
