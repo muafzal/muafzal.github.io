@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What to consider for a successful PhD?
-subtitle: Concise insights for beginners
+title: A handful of points for a successful PhD
+subtitle: Insights for beginners
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
