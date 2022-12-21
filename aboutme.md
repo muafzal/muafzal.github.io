@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: "...all that matters is what I contribute..."
+subtitle: "No One but Everyone"
 ---
 
-![Bio](/assets/img/about.png "Bio") Hi, I am Muhammad Afzal - actively engaged in _applied research_ covering _Plant Breeding / Quantitative Genetics / Biostatistics / GWAS / Genomic Selection / Proteomics_. I love to teach/learn and share my know-how. That is one of the fundamental reasons to build this website. I will be writing/speaking about R for Data Science, statistics using R, Quick fixes to R-related issues, Scientific Productivity, Quantitative Genetics and Plant Breeding.
+![Bio](/assets/img/about.png "Bio") As an agricultural scientist and plant breeder, I'm dedicated to using cutting-edge research and breeding techniques to improve agriculture and feed the world. Follow me for a healthy dose of plant-related data-driven insights, content about different aspects of scientific research, and the use of statistical software R for analysis of different kinds of data i.e., phenotypic, genomics and proteomics.
 
-![Passion](/assets/img/passion.png "Passion") Data Science, Bioinformatics, Biostatistics, Plant Breeding, Genomics
+![Passion](/assets/img/passion.png "Passion") Plant Breeding, Biostatistics, Genomics, Data Science
 
-![Current Work](/assets/img/job.png "Current Work") Currently I am focused to _genetically characterize the proteomes_ of spelt and bread wheat in order to facilitate future plant breeding. Additionally, I am _leading two projects_ - one to produce improved Emmer varieties and the other aimed at association mapping and evaluation of various traits of Einkorn. Besides all this and that, I am a _die hard cricket player_ and a _poet_.
+![Current Work](/assets/img/job.png "Current Work") Since Nov 2018, I have been working to _study the the proteomes_ of different wheat species in order to facilitate future plant breeding for producing nutritionally better varieties. In addition, I have been _leading two projects_ - aimed at producing improved varieties, performing association mapping and evaluating around 100 traits related to quality and agronomic attributes of Emmer and Einkorn wheat.
 
-![Tools](/assets/img/tools.png "Tools & Skills") **R**, **SQL**, **MS Office**, **Python (grasping)**, **html**, **css**
+![Tools](/assets/img/tools.png "Tools & Skills") **R**, **SAS**, **MS Office**, **Inkskape**, **Linux (Beginner)**, **Python (Beginner)**, **SQL (Beginner)**, **html**, **css**
 
 ### Contact
 
