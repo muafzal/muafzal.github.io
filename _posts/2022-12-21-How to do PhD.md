@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to do a successful PhD?
-subtitle: A short guide - step by step
+title: Roadmap to a PhD?
+subtitle: Small steps to a big milestone
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
