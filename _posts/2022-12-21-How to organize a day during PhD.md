@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to organize & prioritise tasks as a PhD student
+title: How to organize & prioritise tasks as a PhD student?
 subtitle: Practical insights
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
