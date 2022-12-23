@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: "No One but Everyone"
+title: Muhammad Afzal
+subtitle: Data Savvy Scientist
 ---
 
 ![Bio](/assets/img/about.png "Bio") As an agricultural scientist and plant breeder, I'm dedicated to using cutting-edge research and breeding techniques to improve agriculture and feed the world. Follow me for a healthy dose of plant-related data-driven insights, content about different aspects of scientific research, and the use of statistical software R for analysis of different kinds of data i.e., phenotypic, genomics and proteomics.
