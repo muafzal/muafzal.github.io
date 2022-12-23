@@ -9,4 +9,4 @@ After forking from the original repository (see acknowledgement), there are/will
 
 ### Acknowledgement
 
-I truly acknowledge the original work of Dean Attali (@daattali) for providing the free template to build Github pages. The original repositroy can be found under https://github.com/daattali/beautiful-jekyll . 
+I truly acknowledge the original work of Dean Attali (@daattali) and contributors for building the free template for Github pages. The original repositroy can be found under https://github.com/daattali/beautiful-jekyll . 
