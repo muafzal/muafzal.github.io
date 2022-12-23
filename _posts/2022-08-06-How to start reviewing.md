@@ -9,7 +9,7 @@ tags: [science, pro-insights, research, review]
 comments: true
 ---
 
-In this short post, we will comprehensively talk about some key considerations about "How to start with reviewing research papers as a young scientist?".
+In this short post, we will comprehensively talk about some key considerations when you like to start with reviewing research papers.
 
 Reviewing research papers is an important part of the scientific process and can be a valuable way for young scientists to gain experience and improve their skills. Here are a few steps you can follow to get started with reviewing research papers:
 
@@ -25,8 +25,8 @@ Reviewing research papers is an important part of the scientific process and can
 
 6. Follow the journal's guidelines: Follow the journal's guidelines for formatting and submitting your review. Make sure you adhere to the word limit and provide a clear and concise review.
 
-7. Stay unbiased: No matter what situation, you MUST stay unbiased when providing your feedback. This is moral responsiblity and good scientific practice. Consider yourself in the position of the authors.
+7. Stay unbiased: No matter what situation, you MUST stay unbiased when providing your feedback. This is moral responsibility and good scientific practice. Consider yourself in the position of the authors.
 
-8. Gaining experience: Request your supervisor to provide you the opportunities to let your review his papers or project reports. Doing such internal reviews will give you confidence and experience.
+8. Gaining experience: Request your supervisor to provide you the opportunities to review his research papers or project reports. Doing such reviews will give you confidence and experience. You can ask them for their feedback on your review.
 
 By following these steps, you can begin to develop your skills as a reviewer and contribute to the scientific community. You can mention your reviewing records in your resume to showcase your services for the scientific community. 
