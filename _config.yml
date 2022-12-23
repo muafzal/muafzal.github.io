@@ -16,12 +16,13 @@ author: Muhammad Afzal
 navbar-links:
   About / Contact: "aboutme"
   Research: "research"
-  Tutorials: "tutorials"
+  Projects: "projects"
+#  Tutorials: "tutorials"
 #  Personal:
 #    - Projects: "projects"
 #    - Poetry: "poetry"
 #    - Selected Quotes: "quotes"
-#  Author's home: "muafzal.github.io"
+  Blog: "muafzal.github.io"
 
 # --- Logo --- #
 
@@ -79,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mafzal.com"
+url-pretty: "muafzal.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
