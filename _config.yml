@@ -16,7 +16,7 @@ author: MA
 navbar-links:
   About / Contact: "aboutme"
   Research: "research"
-  Projects: "projects"
+#  Projects: "projects"
 #  Tutorials: "tutorials"
 #  Personal:
 #    - Projects: "projects"
