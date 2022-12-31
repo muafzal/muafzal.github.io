@@ -5,15 +5,11 @@ subtitle: Insights for beginners
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
-tags: [PhD, science, pro-insights]
+tags: [science, Graphs, Tips, pro-insights]
 comments: true
 #author: "muafzal"
-output: html_document
+#output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ### Motivation
 
