@@ -10,9 +10,6 @@ comments: true
 #author: "muafzal"
 #output: html_document
 ---
-
-### Motivation
-
 Data visualization is an integral part of the research process and reporting in industrial/business context. Often, we need to combine multiple plots so that each plot is a subplot (panel) in the main plot. Ideally, the need to combine multiple plots originates from conveying a complete story or one part of a bigger story using one figure containing multiple plots. `R` is widely used for statistical programming and data analysis in a variety of fields. Different kinds of graphs - basic to highly sophisticated, can be produced using `R`. Many users, usually the beginners, might find it difficult to combine multiple plots into a single figure. 
 
 ### Objective
