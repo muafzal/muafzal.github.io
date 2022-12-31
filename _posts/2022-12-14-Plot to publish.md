@@ -42,11 +42,11 @@ gp1 <- ggplot(aes(Sepal.Length, Sepal.Width), data=iris) + geom_point()
 gp2 <- ggplot(aes(Petal.Length, Petal.Width), data=iris) + geom_point()
 plot_grid(gp1, gp2, labels = "AUTO", nrow = 1, ncol = 2)
 ```
+Note that you can either remove the labels of the panels by removing `labels = "AUTO",` argument or get small letters by using `labels = "auto"`. Simulateously, you can also adjust the grid depending on the number of plots you want to combine. Explore all options by running `?plot_grid` in console. After running the `plot_grid` function, as shown above, use `ggsave2` function to export your plot in one of the desired formats such as png, pdf, and eps etc. You can define plot size to fulfill the journal requirements. Usually, the requirements can be found under "Instructions for Authors" section of the journals. 
 
-Note that you can either remove the labels of the panels by removing `labels = "AUTO",` argument or get small letters by using "auto" instead of "AUTO". Simulateously, you can also adjust the grid depending on the number of plots you want to combine. Explore all options by running `?plot_grid` in console. After running the `plot_grid` function, as shown above, use `ggsave2` function to export your plot in one of the desired formats such as png, pdf, and eps etc. You can define plot size to fulfill the journal requirements. Usually, the requirements can be found under "Instructions for Authors" section of the journals. To exemplify, the following code will produce a figure to meet the "two-column figure" requirements of most of the Nature journals. Note that width and height provided in millimeters.
+To exemplify, the following code will produce a figure to meet the "two-column figure" requirements of most of the Nature journals. Note that width and height provided in millimeters.
 
 ```{r}
-#getwd()
 cowplot::ggsave2("Figure_1.png", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
 cowplot::ggsave2("Figure_1.pdf", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
 cowplot::ggsave2("Figure_1.eps", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
