@@ -38,12 +38,8 @@ library(cowplot)
 First, let's see an example to produce plots by using `ggplot` package.
 
 ```{r}
-gp1 <- ggplot(aes(Sepal.Length, Sepal.Width), data=iris) +
-  geom_point()
-
-gp2 <- ggplot(aes(Petal.Length, Petal.Width), data=iris) +
-  geom_point()
-
+gp1 <- ggplot(aes(Sepal.Length, Sepal.Width), data=iris) + geom_point()
+gp2 <- ggplot(aes(Petal.Length, Petal.Width), data=iris) + geom_point()
 plot_grid(gp1, gp2, labels = "AUTO", nrow = 1, ncol = 2)
 ```
 
@@ -61,19 +57,12 @@ Note that the last three characters of the name (extension at the end after ".")
 
 In case you prefer to use base-R to make plots, the following approach might fit well for combining and exporting your figures.
 
-```{r echo=TRUE, eval=TRUE}
-p1 <- ~{
-  plot(iris$Sepal.Length, iris$Sepal.Width)
-  }
-
-p2 <- ~{
-  plot(iris$Petal.Length, iris$Petal.Width)
-}
+```{r}
+p1 <- ~{ plot(iris$Sepal.Length, iris$Sepal.Width) }
+p2 <- ~{ plot(iris$Petal.Length, iris$Petal.Width) }
 
 png("Figure_2.png", width = 183, height = 80, units = 'mm', res = 500)
-
 plot_grid(p1, p2, labels = "AUTO", nrow = 1, ncol = 2)
-
 dev.off()
 ```
 
