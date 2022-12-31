@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Producing & Exporting Figures with Multiple Panels"
-subtitle: Story telling
+subtitle: Story telling in Research
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
@@ -25,7 +25,8 @@ The objective of this post is to provide insights on avoiding extra step of expo
 
 `R` package `cowplot` can be very useful to combine multiple plots. In the following, I will demonstrate how you can use this package. Afterwards, I will show you two options to export your plots. First, using `ggsave2`function from `cowplot` package. Second, using base-R `png` (`pdf` or `tiff`) functions.
 
-Now, coming to the point, in this post, you will see a basic version of the plots because the main focus is on combining and exporting aspects. Nevertheless, to see how you can beautify your plots, see one of my other posts specifically on this topic. First of all, we load the data and libraries.
+In this post, you will see a basic version of the plots since our focus is on combining and exporting plots. However, to see how you can beautify your plots, ***see one of my other posts*** specifically on this topic. 
+First of all, we load the data and libraries.
 
 ```{r}
 data("iris")
