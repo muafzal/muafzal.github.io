@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Producing & Exporting Figures with Multiple Panels"
-subtitle: Insights for beginners
+subtitle: Story telling
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
@@ -43,7 +43,7 @@ gp2 <- ggplot(aes(Petal.Length, Petal.Width), data=iris) + geom_point()
 plot_grid(gp1, gp2, labels = "AUTO", nrow = 1, ncol = 2)
 ```
 
-Note that you can either remove the labels of the panels by removing `labels = "AUTO",` argument or get small letters by using "auto" instead of "AUTO". Simulateously, you can also adjust the grid depending on the number of plots you want to combine. Explore running `?plot_grid` in console. After running the `plot_grid` function, as shown above, use `ggsave2` function to export your plot in one of the desired formats such as png, pdf, and eps etc. You can define plot size to fulfill the journal requirements. Usually, the requirements can be found under "Instructions for Authors" section of the journals. To exemplify, the following code will produce a figure to meet the "two-column figure" requirements of most of the Nature journals. Note that width and height provided in millimeters.
+Note that you can either remove the labels of the panels by removing `labels = "AUTO",` argument or get small letters by using "auto" instead of "AUTO". Simulateously, you can also adjust the grid depending on the number of plots you want to combine. Explore all options by running `?plot_grid` in console. After running the `plot_grid` function, as shown above, use `ggsave2` function to export your plot in one of the desired formats such as png, pdf, and eps etc. You can define plot size to fulfill the journal requirements. Usually, the requirements can be found under "Instructions for Authors" section of the journals. To exemplify, the following code will produce a figure to meet the "two-column figure" requirements of most of the Nature journals. Note that width and height provided in millimeters.
 
 ```{r}
 #getwd()
@@ -70,7 +70,7 @@ Whenever you use base-R `tiff`, `png` or `pdf` function, DO NOT forget to run `d
 
 ### Conclusion
 
-We saw two approaches to combine multiple plots into one figure and export it in different formats fulfilling the journal requirements or personal choice. If you ask me, I prefer to use `ggplot` approach because of high flexibility to customize plots and vast ecosystems of helper packages to produce awesome graphs. ***See one of my other posts*** on `ggplot` and its helper packages that provide tremendously helpful functions for efficient graph production.
+We explored two approaches to combine multiple plots into one figure and export it in different formats to satisfy the journal requirements or personal choice. If you ask me, I prefer to use `ggplot` approach because of high flexibility to customize plots and vast ecosystems of helper packages to produce awesome graphs. ***See one of my other posts*** on `ggplot` and its helper packages that provide tremendously helpful functions for efficient graph production.
 
 
 
