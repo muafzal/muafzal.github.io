@@ -5,20 +5,21 @@ subtitle: Story telling in Research
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
-tags: [science, Graphs, Tips, pro-insights]
-comments: true
+#tags: [science, Graphs, Tips, pro-insights]
+#comments: true
+#output:
+#  md_document:
+#    variant: markdown_github
+#    preserve_yaml: true
+
 #author: "muafzal"
-#output: html_document
-output:
-  md_document:
-    variant: markdown_github
-    preserve_yaml: true
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(base.dir = "/Users/muafzal/websites/muafzal.github.io/", base.url = "/")
-knitr::opts_chunk$set(fig.path = "assets/img/")
+#knitr::opts_knit$set(base.dir = "/Users/muafzal/websites/muafzal.github.io/", base.url = "/")
+#knitr::opts_chunk$set(fig.path = "assets/img/")
 ```
 
 Data visualization is an integral part of the research process and reporting in industrial/business context. Often, we need to combine multiple plots so that each plot is a subplot (panel) in the main plot. The need to combine multiple plots originates from conveying a complete story or one part of a bigger story using one figure containing multiple plots. `R` is widely used for statistical programming and data analysis in a variety of fields. Different kinds of graphs - basic to highly sophisticated, can be produced using `R`. Many users, usually the beginners, might find it difficult to combine multiple plots into a single figure. 
@@ -51,14 +52,15 @@ gp1 <- ggplot(aes(Sepal.Length, Sepal.Width), data=iris) + geom_point()
 gp2 <- ggplot(aes(Petal.Length, Petal.Width), data=iris) + geom_point()
 plot_grid(gp1, gp2, labels = "AUTO", nrow = 1, ncol = 2)
 ```
+
 Note that you can either remove the labels of the panels by removing `labels = "AUTO",` argument or get small letters by using `labels = "auto"`. Simulateously, you can also adjust the grid depending on the number of plots you want to combine. Explore all options by running `?plot_grid` in console. After running the `plot_grid` function, as shown above, use `ggsave2` function to export your plot in one of the desired formats such as png, pdf, and eps etc. You can define plot size to fulfill the journal requirements. Usually, the requirements can be found under "Instructions for Authors" section of the journals. 
 
 To exemplify, the following code will produce a figure to meet the "two-column figure" requirements of most of the Nature journals. Note that width and height provided in millimeters.
 
 ```{r}
-cowplot::ggsave2("Figure_1.png", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
-cowplot::ggsave2("Figure_1.pdf", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
-cowplot::ggsave2("Figure_1.eps", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
+#cowplot::ggsave2("Figure_1.png", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
+#cowplot::ggsave2("Figure_1.pdf", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
+#cowplot::ggsave2("Figure_1.eps", plot = ggplot2::last_plot(), width = 183, height = 80, units = "mm", dpi = 500)
 ```
 Note that the last three characters of the name (extension at the end after ".") of the output plot are changed to save it in a chosen format.
 
@@ -70,9 +72,9 @@ In case you prefer to use base-R to make plots, the following approach might fit
 p1 <- ~{ plot(iris$Sepal.Length, iris$Sepal.Width) }
 p2 <- ~{ plot(iris$Petal.Length, iris$Petal.Width) }
 
-png("Figure_2.png", width = 183, height = 80, units = 'mm', res = 500)
+#png("Figure_2.png", width = 183, height = 80, units = 'mm', res = 500)
 plot_grid(p1, p2, labels = "AUTO", nrow = 1, ncol = 2)
-dev.off()
+#dev.off()
 ```
 
 Whenever you use base-R `tiff`, `png` or `pdf` function, DO NOT forget to run `dev.off()` command after running your code for plot. Regarding size of the text, axis-labels etc, use the standard arguments for generic plot function of base-R. Run `?plot` in console to see different options for customization.
