@@ -9,18 +9,7 @@ tags: [science, Graphs, Tips, pro-insights]
 comments: true
 #author: "muafzal"
 #output: html_document
-output:
-  md_document:
-    variant: markdown_github
-    preserve_yaml: true
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(base.dir = "/Users/muafzal/websites/muafzal.github.io/", base.url = "/")
-knitr::opts_chunk$set(fig.path = "assets/img/")
-```
-
 Data visualization is an integral part of the research process and reporting in industrial/business context. Often, we need to combine multiple plots so that each plot is a subplot (panel) in the main plot. The need to combine multiple plots originates from conveying a complete story or one part of a bigger story using one figure containing multiple plots. `R` is widely used for statistical programming and data analysis in a variety of fields. Different kinds of graphs - basic to highly sophisticated, can be produced using `R`. Many users, usually the beginners, might find it difficult to combine multiple plots into a single figure. 
 
 ### Objective
