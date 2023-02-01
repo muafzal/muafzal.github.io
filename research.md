@@ -10,6 +10,9 @@ layout: page
 
 # Publications
 
+Mineral and Phytic Acid Content as Well as Phytase Activity in Flours and Breads Made from Different Wheat Species.
+(Read here: [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/24/3/2770))
+
 Multiomics Based Association Mapping in Wheat Reveals Genetic Architecture of Quality and Allergenic Related Proteins.
 (Read here: [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms24021485))
 
