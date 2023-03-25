@@ -17,7 +17,7 @@ Multiomics Based Association Mapping in Wheat Reveals Genetic Architecture of Qu
 (Read here: [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms24021485))
 
 Reference proteomes of five wheat species as starting point for future design of cultivars with lower allergenic potential.
-(Read here: [Research Square](https://doi.org/10.21203/rs.3.rs-2327262/v1))
+(Read here: [Nature Sci Food](https://www.nature.com/articles/s41538-023-00188-0))
 
 Comprehensive proteome analysis of bread deciphering the allergenic potential of bread wheat, spelt and rye.
 (Read here: [Journal of Proteomics](https://doi.org/10.1016/j.jprot.2021.104318))
@@ -29,7 +29,7 @@ Hybrid QconCAT-Based Targeted Absolute and Data-Independent Acquisition-Based La
 (Read here: [Journal of Proteome Research](https://doi.org/10.1021/acs.jproteome.0c00752))
 
 High-resolution proteomics reveals differences in the proteome of spelt and bread wheat flour representing targets for research on wheat sensitivities.
-(Read here: [Nature](https://doi.org/10.1038/s41598-020-71712-5))
+(Read here: [Nature Sci Rep](https://doi.org/10.1038/s41598-020-71712-5))
 
 ## German Language Publications
 
