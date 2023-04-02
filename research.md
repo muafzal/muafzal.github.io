@@ -10,14 +10,14 @@ layout: page
 
 # Publications
 
+Reference proteomes of five wheat species as starting point for future design of cultivars with lower allergenic potential.
+(Read here: [Nature Sci Food](https://www.nature.com/articles/s41538-023-00188-0))
+
 Mineral and Phytic Acid Content as Well as Phytase Activity in Flours and Breads Made from Different Wheat Species.
 (Read here: [International Journal of Molecular Sciences](https://www.mdpi.com/1422-0067/24/3/2770))
 
 Multiomics Based Association Mapping in Wheat Reveals Genetic Architecture of Quality and Allergenic Related Proteins.
 (Read here: [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms24021485))
-
-Reference proteomes of five wheat species as starting point for future design of cultivars with lower allergenic potential.
-(Read here: [Nature Sci Food](https://www.nature.com/articles/s41538-023-00188-0))
 
 Comprehensive proteome analysis of bread deciphering the allergenic potential of bread wheat, spelt and rye.
 (Read here: [Journal of Proteomics](https://doi.org/10.1016/j.jprot.2021.104318))
