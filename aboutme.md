@@ -10,7 +10,7 @@ subtitle: Data Savvy Scientist
 
 ![Current Work](/assets/img/job.png "Current Work") Since Nov 2018, I have been working to _study the the proteomes_ of different wheat species in order to facilitate future plant breeding for producing nutritionally better varieties. In addition, I have been _leading two projects_ - aimed at producing improved varieties, performing association mapping and evaluating around 100 traits related to quality and agronomic attributes of Emmer and Einkorn wheat.
 
-![Tools](/assets/img/tools.png "Tools & Skills") **R**, **SAS**, **MS Office**, **Inkskape**, **Linux (Beginner)**, **Python (Beginner)**, **SQL (Beginner)**, **html**, **css**
+![Tools](/assets/img/tools.png "Tools & Skills") **R**, **SAS**, **MS Office**, **Inkscape**, **Linux (Beginner)**, **Python (Beginner)**, **SQL (Beginner)**, **html**, **css**
 
 ### Contact
 
