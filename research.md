@@ -10,6 +10,9 @@ layout: page
 
 # Publications
 
+From farm to fork: future supply chains need to measure and trade nutrient content.
+(Read here: [Trends in Plant Science](https://doi.org/10.1016/j.tplants.2023.05.011))
+
 Reference proteomes of five wheat species as starting point for future design of cultivars with lower allergenic potential.
 (Read here: [Nature Science of Food](https://www.nature.com/articles/s41538-023-00188-0))
 
