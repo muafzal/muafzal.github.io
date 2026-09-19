@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder with the initials M A">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6f2ed"/><stop offset="1" stop-color="#cfe6db"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a7a5e"/><stop offset="1" stop-color="#0f5842"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <g opacity=".35" stroke="#1a7a5e" stroke-width="2" fill="none">
+    <path d="M0 300h400M0 330h400M0 360h400"/>
+    <path d="M40 300v100M100 300v100M160 300v100M220 300v100M280 300v100M340 300v100"/>
+  </g>
+  <text x="200" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="150"
+        font-weight="600" fill="url(#ink)" letter-spacing="4">MA</text>
+  <text x="200" y="258" text-anchor="middle" font-family="system-ui, sans-serif" font-size="21"
+        fill="#0f5842" opacity=".7" letter-spacing="3">PORTRAIT</text>
+</svg>

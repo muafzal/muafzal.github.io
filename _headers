@@ -1,0 +1,29 @@
+# Response headers for hosts that support them (Cloudflare Pages, Netlify).
+# GitHub Pages ignores this file — it cannot set headers, which is why the
+# pages also carry a <meta> CSP. Moving to either host needs no other change.
+
+/*
+  Content-Security-Policy: default-src 'self'; base-uri 'none'; object-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.web3forms.com; frame-src https://cal.com https://app.cal.com; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=()
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+# The HTML must never be cached hard, or edits will not reach returning visitors.
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# CSS and JS are not fingerprinted, so keep their lifetime short.
+/assets/css/*
+  Cache-Control: public, max-age=3600
+/assets/js/*
+  Cache-Control: public, max-age=3600
+
+# Images and the CV change rarely.
+/assets/img/*
+  Cache-Control: public, max-age=604800
+/assets/docs/*
+  Cache-Control: public, max-age=604800
